@@ -1,8 +1,13 @@
+@font-face {
+    font-family: "Rec Mono Casual";
+    src: url("../assets/fonts/RECMONOCASUAL.TTF");
+}
+
 html {
     background-color: #e4e9fd;
     background-image: -webkit-linear-gradient(65deg, #a683e3 50%, #e4e9fd 50%);
     min-height: 1000px;
-    font-family: "helvetica neue";
+    font-family: "Rec Mono Casual", cursive;
 }
 
 body {
@@ -23,7 +28,7 @@ h1 {
 }
 
 .box {
-    max-width: 400px;
+    max-width: 60ch;
     margin: 50px auto;
     background: white;
     border-radius: 5px;
@@ -98,6 +103,7 @@ input[type="text"] {
     font-size: 20px;
     font-weight: 200;
     width: 80%;
+    font-family: "Rec Mono Casual", cursive;
 }
 
 input[type="text"]:focus {
