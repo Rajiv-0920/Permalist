@@ -6,7 +6,7 @@ import 'dotenv/config';
 
 const app = express();
 const port = 3000;
-
+console.log(process.env.DB_PASSWORD)
 const db = new pg.Client({
     user: process.env.DB_USER,
     host: process.env.DB_HOST,
