@@ -5,6 +5,7 @@
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Screenshot](#screenshot)
+  - [Video Demo](#video-demo)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
@@ -20,6 +21,10 @@ Permalist is a simple web application that allows users to create and manage a p
 ## Screenshot
 
 ![Permalist Screenshot](./screenshots/image.png)
+
+## Video Demo
+
+[Watch the demo](./video/Permalist.mp4)
 
 ## Features
 
