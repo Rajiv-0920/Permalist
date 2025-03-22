@@ -24,7 +24,8 @@ Permalist is a simple web application that allows users to create and manage a p
 
 ## Video Demo
 
-[Watch the demo](./video/Permalist.mp4)
+https://github.com/user-attachments/assets/5071cc92-b074-4b35-9f34-87573f14c5d1
+<!-- [Watch the demo](https://github.com/user-attachments/assets/5071cc92-b074-4b35-9f34-87573f14c5d1) -->
 
 ## Features
 
