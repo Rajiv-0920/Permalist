@@ -11,7 +11,6 @@
   - [Usage](#usage)
   - [Configuration](#configuration)
   - [Database Setup](#database-setup)
-  - [API Endpoints](#api-endpoints)
   - [Contact](#contact)
 
 ## Project Overview
@@ -45,11 +44,16 @@ Permalist is a simple web application that allows users to create and manage a p
 1.  **Clone the repository:**
 
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Rajiv-0920/Permalist.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```sh
     cd <project_directory>
     ```
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
 
     ```sh
     npm install
@@ -99,13 +103,6 @@ The application uses environment variables for database configuration. Ensure th
         title VARCHAR(100) NOT NULL
     );
     ```
-
-## API Endpoints
-
-*   **GET /**: Displays the to-do list.
-*   **POST /add**: Adds a new item to the list.
-*   **POST /edit**: Edits an existing item in the list.
-*   **POST /delete**: Deletes an item from the list.
 
 ## Contact
 
