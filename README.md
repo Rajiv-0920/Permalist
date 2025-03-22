@@ -4,7 +4,6 @@
 - [Permalist Project](#permalist-project)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
-  - [Screenshot](#screenshot)
   - [Video Demo](#video-demo)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -18,14 +17,9 @@
 
 Permalist is a simple web application that allows users to create and manage a persistent to-do list. It uses Node.js, Express, EJS for templating, and PostgreSQL for data storage.
 
-## Screenshot
-
-![Permalist Screenshot](./screenshots/image.png)
-
 ## Video Demo
 
 https://github.com/user-attachments/assets/5071cc92-b074-4b35-9f34-87573f14c5d1
-<!-- [Watch the demo](https://github.com/user-attachments/assets/5071cc92-b074-4b35-9f34-87573f14c5d1) -->
 
 ## Features
 
